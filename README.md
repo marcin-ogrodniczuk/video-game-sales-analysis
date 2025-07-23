@@ -1,4 +1,4 @@
-# Video Game Sales Analysis
+# Video Game Analysis
 This project explores global video game sales data from 1980–2020 to uncover trends in platform, genre, and regional performance. It was developed as part of my data science portfolio to showcase my skills in data wrangling, visualization, and storytelling.
 
 ## Questions Explored
